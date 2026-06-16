@@ -48,12 +48,7 @@ operations{
     border-radius :8px;
     cursor :pointer ;
     font-size :20px ; 
-   /* transition :0.3s; */
 }
-/* operations.hover{
-    transform :scale (1.05);
-} */
-
 
 #answer{
     margin-top :20px ; 
@@ -67,5 +62,5 @@ operations{
 }
 
 .dark .container {
-    background: #333 ;
+    background: dark gray ;
 }
