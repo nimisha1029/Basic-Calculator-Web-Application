@@ -17,5 +17,5 @@ Built a calculator web app using HTML , CSS , Javascript which performs basic ar
 - CSS
 - Javascript
 
-##Author
+## Author
 Nimisha Singhal 
