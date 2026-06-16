@@ -4,8 +4,8 @@ Built a calculator web app using HTML , CSS , Javascript which performs basic ar
 
 ## Features are as follows :
 
--Addition
--Subtraction
+_Addition
+_Subtraction
 -Mutiplication
 -Division
 -Toggle button to switch to Dark Mode
