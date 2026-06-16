@@ -4,15 +4,15 @@ Built a calculator web app using HTML , CSS , Javascript which performs basic ar
 
 ## Features are as follows :
 
-_Addition
-_Subtraction
--Mutiplication
--Division
--Toggle button to switch to Dark Mode
--Input Validation
--Handling divison by Zero
+- Addition
+- Subtraction
+- Mutiplication
+- Division
+- Toggle button to switch to Dark Mode
+- Input Validation
+- Handling divison by Zero
 
 ## Tech Stack Used :
--HTML
--CSS
--Javascript
+- HTML
+- CSS
+- Javascript
