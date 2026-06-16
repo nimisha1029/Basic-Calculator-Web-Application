@@ -27,10 +27,10 @@ function add()
 {
     let values = getInputs();
 
-    if(values === null)
+    if(values === null){
         return ;
-
-    let answer = values[0] +values[1];
+    }
+    let answer = values[0] + values[1];
 
     document.getElementById("answer").innerHTML = 
     "answer: " + answer ;
